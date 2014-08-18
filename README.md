@@ -1,4 +1,3 @@
 excelToYML
 ==========
-
-converter from excel to YML(Yandex xml)
+This application is used to convert Microsoft excel document to Yandex xml(YML) format. Excel example file data_sheet_example.xlsx. Bold headings are used as tags in generated xml. Converter creates file in the same folder as input file with a same name and xml extension. You can find more information about supported Yandex xml tags/values on http://help.yandex.ru/partnermarket/guides/clothes.xml
